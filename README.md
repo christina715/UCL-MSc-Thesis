@@ -18,6 +18,6 @@ The results under the research exhibit the second-order assortative is not const
 
 3. maximal_second_order_disassortative_rewiring. This file presents a method for second-order disassortative rewiring pattern.
 
-4.graph_for_trend_of_rewiring. This file contains the codes for display the trend of the change of second-order assortative coefficient in three link rewiring patterns.
+4. graph_for_trend_of_rewiring. This file contains the codes for display the trend of the change of second-order assortative coefficient in three link rewiring patterns.
 
-5.the_graph_for_analysis. This file includes the codes for display the change of topological properties of original datasets and their surrogate networks.
+5. the_graph_for_analysis. This file includes the codes for display the change of topological properties of original datasets and their surrogate networks.
